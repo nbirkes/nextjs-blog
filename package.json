@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "https://nextjs-blog-two-xi-83.vercel.app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
